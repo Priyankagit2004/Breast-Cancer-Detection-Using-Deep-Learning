@@ -206,6 +206,24 @@ MobileNetV2:
 
 In medical diagnosis systems, missing a cancer case is generally more dangerous than generating a false positive. Therefore, recall becomes a more important metric than accuracy.
 
+Model Performance Visualizations
+
+CNN Accuracy
+
+![CNN Accuracy](images/cnn_accuracy.png)
+
+CNN Loss
+
+![CNN Loss](images/cnn_loss.png)
+
+MobileNetV2 Accuracy
+
+![MobileNetV2 Accuracy](images/mobilenet_accuracy.png)
+
+MobileNetV2 Loss
+
+![MobileNetV2 Loss](images/mobilenet_loss.png)
+
 ---
 
 Key Insight
